@@ -1,0 +1,48 @@
+_repo: Why-Armenia-Should-Be-Free-Armenia-s-Role-in-the-Present-War_53976
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Nasmyth, George William
+    birthdate: 1882
+    deathdate: 1920
+    gutenberg_agent_id: '47717'
+    url: http://www.gutenberg.org/2009/agents/47717
+  translator:
+    agent_name: Torossian, Aram
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '47626'
+    url: http://www.gutenberg.org/2009/agents/47626
+creator:
+  author:
+    agent_name: Garo, Armen
+    aliases:
+    - Pasdermadjian, G.
+    - Karo, Armen
+    - Pasdermadjian, Garegin
+    - Pastermadjian, Karekin
+    birthdate: 1872
+    deathdate: 1923
+    gutenberg_agent_id: '47648'
+    url: http://www.gutenberg.org/2009/agents/47648
+description: ''
+gutenberg_issued: '2017-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53976'
+  lccn: a23002080
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Armenia'
+- GITenberg
+tableOfContents: Introduction -- Translator's preface -- Turkish and Russian proposals
+  to the Armenians in 1914 -- Military services rendered by the Armenians on the Caucasian
+  front -- Armenian resistance to the Turkish massacres -- Attitude of Russian czarism
+  toward the Armenians -- Rôle played by the Armenians in the Caucasus after the Russian
+  collapse -- Armenia's cooperation with the allies on other fronts -- Conclusion.
+title: 'Why Armenia Should Be Free: Armenia''s Rôle in the Present War'
+url: http://www.gutenberg.org/ebooks/53976
