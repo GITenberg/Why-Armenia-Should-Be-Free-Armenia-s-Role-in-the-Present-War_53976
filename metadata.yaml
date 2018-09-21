@@ -1,5 +1,5 @@
 _repo: Why-Armenia-Should-Be-Free-Armenia-s-Role-in-the-Present-War_53976
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Nasmyth, George William
@@ -13,6 +13,9 @@ contributor:
     deathdate: 1941
     gutenberg_agent_id: '47626'
     url: http://www.gutenberg.org/2009/agents/47626
+covers:
+- cover_type: archival
+  image_path: 53976-h/images/cover.jpg
 creator:
   author:
     agent_name: Garo, Armen
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '47648'
     url: http://www.gutenberg.org/2009/agents/47648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53976#Why-Armenia-Should-Be-Free-Armenia-s-Role-in-the-Present-War
 gutenberg_issued: '2017-01-16'
 gutenberg_type: Text
 identifiers:
